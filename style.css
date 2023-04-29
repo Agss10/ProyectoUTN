@@ -1,0 +1,70 @@
+.titulo{
+    margin-top: 0px;
+}
+
+
+h1 {
+    color: black;
+    text-decoration-line: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: blue ;
+    margin-top: 0px;
+}
+
+  /*SOBRE MI*/
+
+h2 {
+    text-align: center;
+    color: darkblue;
+    text-decoration-line: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sobremi{
+    font-size: larger;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-bottom: 50px;
+}
+.linkedin{
+    margin-top: 50px;
+    padding: 5px;
+    color: black;
+    border: 20px inset #50a0ff;
+    background: #ffffff;
+    
+}
+
+/*SKILLS*/
+
+
+h3 {
+    color: darkblue;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.skills{
+    display: inline-block;
+    justify-content: center;
+    width: 150px;
+    height: 200px;
+    
+    
+}
+
+h5 {
+    color: darkblue;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h6 {
+    color: darkblue;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wpp{
+    color: red;
+}
